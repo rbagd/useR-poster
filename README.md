@@ -1,2 +1,1 @@
-# useR-poster
-Poster code for useR!2015 conference
+It's LaTeX code for the poster presented at useR!2015 conference.
